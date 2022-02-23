@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.9db30233.css",
+    "main.js": "/robofriends/static/js/main.5f44be4d.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/press-start-2p-all-400-normal.woff": "/robofriends/static/media/press-start-2p-all-400-normal.1b4eaa5b3861e49b57fc.woff",
+    "static/media/press-start-2p-latin-400-normal.woff2": "/robofriends/static/media/press-start-2p-latin-400-normal.26606132347682ad49c1.woff2",
+    "static/media/press-start-2p-latin-ext-400-normal.woff2": "/robofriends/static/media/press-start-2p-latin-ext-400-normal.9438133bc9cbb5e83823.woff2",
+    "static/media/press-start-2p-cyrillic-400-normal.woff2": "/robofriends/static/media/press-start-2p-cyrillic-400-normal.d7b2f2eaee058acd512e.woff2",
+    "static/media/press-start-2p-cyrillic-ext-400-normal.woff2": "/robofriends/static/media/press-start-2p-cyrillic-ext-400-normal.3f07e4fb28b05927ecf1.woff2",
+    "static/media/press-start-2p-greek-400-normal.woff2": "/robofriends/static/media/press-start-2p-greek-400-normal.cf2420b5a5026b29ba84.woff2",
+    "index.html": "/robofriends/index.html",
+    "main.9db30233.css.map": "/robofriends/static/css/main.9db30233.css.map",
+    "main.5f44be4d.js.map": "/robofriends/static/js/main.5f44be4d.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9db30233.css",
+    "static/js/main.5f44be4d.js"
+  ]
+}
